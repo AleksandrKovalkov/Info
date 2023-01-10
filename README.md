@@ -8,6 +8,6 @@
 
   My photo:
 
-![Alt text](../../Pictures/%D0%AF/2Y5A-1843%20(2).JPG)
+![Alt text](../../Downloads/myPhoto.jpg)
 
 
